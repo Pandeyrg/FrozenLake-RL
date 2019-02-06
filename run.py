@@ -139,8 +139,8 @@ def update(s,s1, r, a):
 
 
 #BEGIN
-max_steps =  150
-max_episodes =  1000
+max_steps =  200
+max_episodes =  8000
 
 for episodes in range(0,max_episodes):
 
